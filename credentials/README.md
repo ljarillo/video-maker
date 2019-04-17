@@ -12,7 +12,7 @@ File: `algorithmia.json`
 
 ## Watson Natural Language Undersanding
 
-File: `watson-nlu.json` 
+File: `watson-nlu.json`
 
 ```
 {
