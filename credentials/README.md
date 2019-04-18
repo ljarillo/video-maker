@@ -24,3 +24,14 @@ File: `watson-nlu.json`
   "url": "https://gateway.watsonplatform.net/natural-language-understanding/api"
 }
 ```
+
+## Google
+
+File: `google-search.json`
+
+```
+{
+    "apiKey": "eFWEfEWF43324few-EWFwefweFWEf43edFEW3DFs4",
+    "searchEngineId" : "3243243253253253556:3f45grg5rdrgdr45"
+}
+```
